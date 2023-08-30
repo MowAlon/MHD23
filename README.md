@@ -14,7 +14,7 @@ These are all the Lightning Web Components shown off during my presentation. Ple
 ## Jimmy Nelson
 * [**Configurable List**](https://github.com/jamesrnelson/ConfigurableList)
 
-## FirmWorks
+## FirmWorks (presented by Jordan Pesusich)
 **FirmWorks Geo** (coming to the AppExchange soon!)
 * [Production install link](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t5Y000001TsWfQAK)
 * [Sandbox install link](https://test.salesforce.com/packaging/installPackage.apexp?p0=04t5Y000001TsWfQAK)
